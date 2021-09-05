@@ -1,13 +1,10 @@
 ![](final.gif)
 
 # 👋 Halo
-- 👀 I’m interested in Data, Data and more Data!!
-- 🌱 I’m currently learning Kubernetes, Machine Learning and Python
-- 💞️ I’m looking to collaborate on ML and Data Science topics
-- 💭 I'm thinking of extracting data from Telegram channels and perform data analysis
-- 📫 How to reach me - "Where there is a will, there is a way" 😉
+## *I am Gowthami*
+- 💻 I’m looking for collaboration on ML and Data Science projects
 
-## Tech Stack
+## Exhaustive Tech Stack
 ![](python4.png)
 
 <!---
