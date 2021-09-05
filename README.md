@@ -1,6 +1,6 @@
-![Image of Yaktocat] (https://github.com/Gowthami03B/Gowthami03B/blob/main/giphycat.gif)
+![] (https://github.com/Gowthami03B/Gowthami03B/blob/main/giphycat.gif)
 
-- 👋 Hi
+# 👋 Halo
 - 👀 I’m interested in Data, Data and more Data!!
 - 🌱 I’m currently learning Kubernetes, Machine Learning and Python
 - 💞️ I’m looking to collaborate on ML and Data Science topics
