@@ -1,4 +1,4 @@
-![] (https://github.com/Gowthami03B/Gowthami03B/blob/main/giphycat.gif)
+![] (https://media.giphy.com/media/puRTbMVETiIYiX155c/source.mov?cid=790b7611519dcb108f9b4609bbaef87234725403523e3ecc&rid=source.mov&ct=g)
 
 # 👋 Halo
 - 👀 I’m interested in Data, Data and more Data!!
