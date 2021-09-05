@@ -1,4 +1,4 @@
-![](giphycat.gif)
+![](Making.mp4)
 
 # 👋 Halo
 - 👀 I’m interested in Data, Data and more Data!!
@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on ML and Data Science topics
 - 💭 I'm thinking of extracting data from Telegram channels and perform data analysis
 - 📫 How to reach me - "Where there is a will, there is a way" 😉
+
+## Tech Stack
+![](python4.png)
 
 <!---
 Gowthami03B/Gowthami03B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
