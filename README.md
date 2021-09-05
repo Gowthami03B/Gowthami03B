@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gowthami03B
+- 👋 Hi
 - 👀 I’m interested in Data, Data and more Data!!
 - 🌱 I’m currently learning Kubernetes, Machine Learning and Python
 - 💞️ I’m looking to collaborate on ML and Data Science topics
