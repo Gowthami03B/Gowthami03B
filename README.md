@@ -1,4 +1,4 @@
-![](Making.mp4)
+![](Making.gif)
 
 # 👋 Halo
 - 👀 I’m interested in Data, Data and more Data!!
