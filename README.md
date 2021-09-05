@@ -1,5 +1,4 @@
 ![Image of Yaktocat] (https://github.com/Gowthami03B/Gowthami03B/blob/main/giphycat.gif)
-![alt text](http://url/to/img.png)
 
 - 👋 Hi
 - 👀 I’m interested in Data, Data and more Data!!
