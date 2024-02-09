@@ -20,7 +20,4 @@ S/4 HANA| SAP HANA| SAP UI5| SAP PO| SAP Data Intelligence| SAP Analytics Cloud
 ###### *Here's a quirky quote from Albert Camus that keeps me grounded!*
 > Life is meaningless, but it's worth living, provided you understand that it's meaningless!
 --->
-<!---
-Gowthami03B/Gowthami03B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
